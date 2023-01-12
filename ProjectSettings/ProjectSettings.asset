@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: "\u0410\u0432\u0438\u0430\u0442\u043E\u0440 \u0438\u0433\u0440\u0430"
+  productName: Lucky Jet
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -154,7 +154,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.checksta.aviatdor
+    Android: com.luckyjedwin.slotz
     Standalone: com.DefaultCompany.2DProject
   buildNumber:
     Standalone: 0
@@ -249,7 +249,7 @@ PlayerSettings:
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: '{inproject}: user.keystore'
-  AndroidKeyaliasName: ujinke
+  AndroidKeyaliasName: xeinrop
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
@@ -760,10 +760,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 5168aa3c-e5b1-45ba-8dbc-f41af1c7ea97
+  cloudProjectId: 1bffbcbb-ff77-4b33-8d04-a6bb14316a6d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: "\u0410\u0432\u0438\u0430\u0442\u043E\u0440 \u0438\u0433\u0440\u0430"
+  projectName: Lucky Jet
   organizationId: alextraffic
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
